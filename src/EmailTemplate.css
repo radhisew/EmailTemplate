@@ -1,0 +1,86 @@
+.EmailTempale-containor {
+  background-color: #d9d9d9;
+}
+.EmailTempale-header {
+  width: 100%;
+  background-color: #659399;
+}
+.EmailTempaleLogo {
+  width: 100px;
+  height: auto;
+  margin: 20px;
+}
+.EmailTempale-body {
+  background-color: white;
+  width: 80%;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto 0;
+}
+.EmailTempale-Topic {
+  color: #5893c9;
+  font-size: 15px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.EmailTempale-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 0 auto;
+  outline: 1px solid #BFEDF4; 
+  border-radius: 10px;
+}
+
+.EmailTempale-container > div {
+  display: flex;
+}
+.EmailTempale-details-header {
+  flex: 1;
+  padding: 10px;
+  margin-left: 15px;
+}
+.EmailTempale-details-header,
+.EmailTempale-details {
+  flex: 1;
+  padding: 10px;
+  color: #746E6E;
+  text-align: left;
+}
+
+.EmailTempale-underline {
+  width: 90%;
+  border-bottom: 1px solid #E4E4E4;
+  margin-top: 5px; 
+  margin: 0 auto;
+}
+.EmailTempale-TopicDes{
+  margin-left: 50px;
+  color: #746E6E;
+  width: 85%;
+}
+.EmailTempale-details-header-sub{
+  color: #746E6E;
+  margin:35px ;
+  width: 85%;
+}
+.EmailTempale-footer{
+  width: 100%;
+  background-color: #659399;
+  margin-top: 25px;
+  display: flex;
+}
+.EmailTempale-footerlogo img {
+  width: 150px;
+  height: 150px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.EmailTempale-footer-text-container{
+  margin-left: 130vh;
+  margin-top: 50px;
+}
+.EmailTempale-footer-title{
+  text-transform: uppercase;
+  font-weight: 600;
+}
