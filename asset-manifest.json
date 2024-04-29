@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmailTemplate/static/css/main.bba6af29.css",
+    "main.js": "/EmailTemplate/static/js/main.b29f0a04.js",
+    "static/media/logo2.jpg": "/EmailTemplate/static/media/logo2.fd5e62031a8b32103a31.jpg",
+    "static/media/HotelLogo.png": "/EmailTemplate/static/media/HotelLogo.7d65d2da04bc8f5684c7.png",
+    "index.html": "/EmailTemplate/index.html",
+    "main.bba6af29.css.map": "/EmailTemplate/static/css/main.bba6af29.css.map",
+    "main.b29f0a04.js.map": "/EmailTemplate/static/js/main.b29f0a04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba6af29.css",
+    "static/js/main.b29f0a04.js"
+  ]
+}
